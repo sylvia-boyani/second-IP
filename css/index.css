@@ -64,5 +64,11 @@
     box-sizing: border-box;
 }
 
+.row4{
+    box-sizing: border-box;
+    display: flex;
+}
 
-
+.column{
+    flex:25%;
+}
