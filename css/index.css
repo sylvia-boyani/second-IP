@@ -62,6 +62,6 @@
     
 .row3{
     box-sizing: border-box;
-    
+    display: inline-block;
 }
 
