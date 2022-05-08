@@ -62,6 +62,7 @@ table,td,th{
 
   .form{
       float:right;
+      display: block;
   }
 
 .img+form {
