@@ -59,10 +59,7 @@
    color: white;
    text-align: left;
 }
-    
-.row3{
-    box-sizing: border-box;
-}
+
 
 .row4{
     box-sizing: border-box;
@@ -71,4 +68,17 @@
 
 .column{
     flex:25%;
+}
+
+.row3{
+    box-sizing: border-box;
+}
+
+
+
+.row3{
+    float:left;
+    width:33.33%;
+    padding: 10px;
+
 }

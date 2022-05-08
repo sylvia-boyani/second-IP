@@ -71,3 +71,16 @@ table,td,th{
     display: inline-block;
     vertical-align: top;
 }
+
+.row3{
+    box-sizing: border-box;
+}
+
+.row4{
+    box-sizing: border-box;
+    display: flex;
+}
+
+.column{
+    flex:25%;
+}
