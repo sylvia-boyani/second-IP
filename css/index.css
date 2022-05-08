@@ -1,0 +1,51 @@
+*{
+    background-color: white;
+}
+#nav-bar{
+    display: flex;
+    background-image: url("file:///home/moringa/Desktop/boyani_yeah/assets/css/images/moving%201.png")
+    ;
+}
+
+#nav-bar, ul{
+    float:right;
+    margin-top: 0px;
+}
+
+#nav-bar, li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+
+#nav-bar, ul, li, button{
+    color: "#FFAC12-+";
+    background-color: "#FFAC12-+";
+    font-size: 17px;
+}
+.background-image{
+    background-image: url("file:///home/moringa/Desktop/boyani_yeah/assets/css/images/moving%201.png");
+    background-size: contain;
+    background-repeat: no-repeat; 
+    padding: 200px 100px;
+    margin-top: 0px;
+}
+
+.row{
+      box-sizing: border-box;
+      display: flex;
+}
+      
+.column {
+        float: 33.33%;
+}
+     
+.row2{
+    box-sizing: border-box;
+    display: flex;
+}
+
+.row2, .column{
+    float:33.33%
+}
+    
