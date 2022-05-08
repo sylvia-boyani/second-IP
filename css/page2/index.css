@@ -85,3 +85,8 @@ table,td,th{
 .column{
     flex:25%;
 }
+
+.footer{
+  height: 20px;
+  background-color: black;
+}
